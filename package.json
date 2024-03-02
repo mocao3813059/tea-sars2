@@ -1,0 +1,34 @@
+{
+  "name": "tea-sars2",
+  "version": "1.0.2",
+  "description": "fatser svg utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "async": "~0.9.0",
+    "dxf-parsing": "^0.3.7",
+    "gm": "~1.17.0",
+    "tea-sars": "^1.0.2",
+    "underscore": "~1.7.0",
+    "xml2js": "~0.4.4",
+    "xmlbuilder": "^2.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mocao3813059/tea-sars2.git"
+  },
+  "keywords": [
+    "design",
+    "svg",
+    "util",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mocao3813059/tea-sars2/issues"
+  },
+  "homepage": "https://github.com/mocao3813059/tea-sars2/design#readme"
+}
